@@ -1,0 +1,42 @@
+{
+    "short_name": "Fiber Active",
+    "name": "Fiber Active",
+    "icons": [
+        {
+            "src": "/icons/logo_fiberactive_.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icons/logo_fiberactive_.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#c6d0d6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#000000",
+    "description": "Fiber Active",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "categories": [
+        "utilities",
+        "productivity"
+    ],
+    "shortcuts": [
+        {
+            "name": "Fiber Active",
+            "short_name": "Fiber Active",
+            "description": "Fiber Active",
+            "url": "/",
+            "icons": [
+                {
+                    "src": "/icons/logo_fiberactive_.png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ]
+}
